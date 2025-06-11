@@ -7,7 +7,7 @@ def get_property(Property_ID):
     properties = {
         "1": {"name": "Cliffs Mansion", "location": "Coorg","Owner_ID": "12345", "price": 100000, "rent":10000},
         "2": {"name": "Ocean View Villa", "location": "Goa", "Owner_ID": "67890", "price": 200000, "rent": 20000},
-        "3": {"name": "Mountain Retreat", "location": "Himachal", "Owner_ID": "54321", "price": 300000. "rent": 0}
+        "3": {"name": "Mountain Retreat", "location": "Himachal", "Owner_ID": "54321", "price": 300000, "rent": 0}
     }
     
     property_data = properties.get(Property_ID)
