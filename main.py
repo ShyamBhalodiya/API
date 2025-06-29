@@ -13,11 +13,11 @@ def get_property(Property_ID):
         "6": {"name": "City View Apartment", "location": "Mumbai", "Owner_ID": "11223", "price": 12000000, "rent": 60000},
         "7": {"name": "Desert Oasis Villa", "location": "Rajasthan", "Owner_ID": "44556", "price": 9000000, "rent": 40000},
         "8": {"name": "Riverside Cabin", "location": "Kerala", "Owner_ID": "77889", "price": 4500000, "rent": 22000},
-        "9": {"name": "Urban Loft", "location": "Bangalore", "Owner_ID": "22334", "price": 8000000, "rent": 45000},
-        "10": {"name": "Forest Bungalow", "location": "Uttarakhand", "Owner_ID": "66778", "price": 6000000, "rent": 28000},
-        "11": {"name": "Lakefront Cottage", "location": "Srinagar", "Owner_ID": "33445", "price": 5500000, "rent": 25000},
-        "12": {"name": "Country Farmhouse", "location": "Punjab", "Owner_ID": "99001", "price": 7000000, "rent": 32000},
-        "13": {"name": "Beach House", "location": "Puducherry", "Owner_ID": "10112", "price": 10000000, "rent": 50000}
+        "9": {"name": "Urban Loft", "location": "Bangalore", "Owner_ID": "22334", "price": 10000000000000000000, "rent": 15000000000000000},
+        "10": {"name": "Forest Bungalow", "location": "Uttarakhand", "Owner_ID": "66778", "price": 27500000000000000000, "rent": 20000000000000000},
+        "11": {"name": "Lakefront Cottage", "location": "Srinagar", "Owner_ID": "33445", "price": 17863546200000000000, "rent": 20000000000000000},
+        "12": {"name": "Country Farmhouse", "location": "Punjab", "Owner_ID": "99001", "price": 10230000000000000000, "rent": 10230000000000000},
+        "13": {"name": "Beach House", "location": "Puducherry", "Owner_ID": "10112", "price": 1870000000000000000, "rent": 20000000000000000}
     }
     
     property_data = properties.get(Property_ID)
